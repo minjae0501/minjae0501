@@ -6,6 +6,6 @@ def ShowMe():
   Sex = 'male'
   Dream = max(Data_Analysts)
   Skill = ['Python','PyTorch', 'scikit-learn', 'OpenCV', 'Tablaeu']
-  Collaboration_Tool = ['Git', 'Google_Workspace', 'Slack']
+  Collaborative_Software = ['Git', 'Google_Workspace', 'Slack']
   Velog = 'https://velog.io/@qnwjej/posts'
 ```
