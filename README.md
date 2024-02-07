@@ -8,4 +8,7 @@ def ShowMe():
   Skill = ['Python','PyTorch', 'scikit-learn', 'OpenCV', 'Tablaeu']
   Collaborative_Software = ['Git', 'Google_Workspace', 'Slack']
   Velog = 'https://velog.io/@qnwjej/posts'
+
+  return Sex, Dream, Skill, Collaborative_Software, 
 ```
+[Velog](https://velog.io/@qnwjej/posts)
