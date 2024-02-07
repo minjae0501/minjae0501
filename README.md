@@ -9,6 +9,5 @@ def ShowMe():
   Collaborative_Software = ['Git', 'Google_Workspace', 'Slack']
   Velog = 'https://velog.io/@qnwjej/posts'
 
-  return Sex, Dream, Skill, Collaborative_Software, 
+  return Sex, Dream, Skill, Collaborative_Software, Velog
 ```
-[Velog](https://velog.io/@qnwjej/posts)
